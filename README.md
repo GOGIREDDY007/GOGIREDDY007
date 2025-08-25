@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/GOGIREDDY007/GOGIREDDY007/blob/main/assets/banner.png" alt="Profile Banner"/>
-</p>
 
 
 <h1 align="center">Hey 👋, I'm Yugandhar Reddy Gogireddy</h1>
